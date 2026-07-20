@@ -9,3 +9,9 @@
 - Git stores snapshots
 - Branches are lightweight
 - Rebase rewrites history
+
+## Random Ideas
+
+- Learn Kubernetes
+- Learn Rust
+- Build a Game
