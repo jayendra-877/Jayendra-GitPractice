@@ -11,3 +11,4 @@ Hi, I'm Jayendra Vishwakarma, a Spring Boot developer currently studying at IET 
 3. Practiced soft reset - 2026-07-20 
 4. Added peer review - 2026-07-20 08:35
 5. Added self review - 2026-07-20 09:13
+6. Added rebase second - 2026-07-20 10:03
