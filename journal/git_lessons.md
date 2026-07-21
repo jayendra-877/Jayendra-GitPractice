@@ -5,3 +5,8 @@
 - Rebase keeps history linear.
 - Cherry-pick copies selected commits.
 - Revert safely undoes shared commits.
+
+## Temporary Thoughts
+
+Need to improve Git skills.
+Need more practice.
